@@ -1,0 +1,14 @@
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\RaceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\RaceGame.AssemblyInfoInputs.cache
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\RaceGame.AssemblyInfo.cs
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\RaceGame.csproj.CoreCompileInputs.cache
+D:\OOP_C#\RaceGame\RaceGame\bin\Debug\net7.0\RaceGame.exe
+D:\OOP_C#\RaceGame\RaceGame\bin\Debug\net7.0\RaceGame.deps.json
+D:\OOP_C#\RaceGame\RaceGame\bin\Debug\net7.0\RaceGame.runtimeconfig.json
+D:\OOP_C#\RaceGame\RaceGame\bin\Debug\net7.0\RaceGame.dll
+D:\OOP_C#\RaceGame\RaceGame\bin\Debug\net7.0\RaceGame.pdb
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\RaceGame.dll
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\refint\RaceGame.dll
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\RaceGame.pdb
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\RaceGame.genruntimeconfig.cache
+D:\OOP_C#\RaceGame\RaceGame\obj\Debug\net7.0\ref\RaceGame.dll
